@@ -1,8 +1,8 @@
 # Beacons.ai 🚦
 
-**Antigravity Open Source Market Research Agents**
+**Open Source Market Research & Analytics Agents**
 
-Beacons.ai is an open-source suite of specialized AI agents designed to automate complex market research workflows. Built using the Google Agent Development Kit (ADK) and the Agent-to-Agent (A2A) protocol.
+Beacons.ai is an open-source suite of specialized AI agents designed to automate complex market research and analytics workflows. Built using the Google Agent Development Kit (ADK) and the Agent-to-Agent (A2A) protocol.
 
 ## 🎯 Vision
 
