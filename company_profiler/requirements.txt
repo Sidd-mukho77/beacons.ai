@@ -1,0 +1,18 @@
+# Google ADK with A2A support
+google-adk[a2a]>=0.1.0
+
+# ASGI server for A2A endpoint
+uvicorn>=0.27.0
+
+# Property-based testing
+hypothesis>=6.100.0
+
+# Testing framework
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+
+# JSON schema validation for A2UI
+jsonschema>=4.21.0
+
+# Environment variable management
+python-dotenv>=1.0.0

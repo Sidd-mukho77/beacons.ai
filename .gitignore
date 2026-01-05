@@ -1,0 +1,30 @@
+# Ignore everything by default
+*
+!*/
+
+# Whitelist Documentation
+!README.md
+!google-adk-overview.md
+!google-adk-technical-reference.md
+!.env.example
+
+# Whitelist Gitignore itself
+!.gitignore
+
+# Whitelist Company Profiler Agent files
+!company_profiler/__init__.py
+!company_profiler/agent.py
+!company_profiler/a2a_server.py
+!company_profiler/run_a2a_server.py
+!company_profiler/requirements.txt
+!company_profiler/a2ui_schema.py
+!company_profiler/STARTUP_GUIDE.md
+!company_profiler/.env.example
+!company_profiler/tests/
+
+# Explicitly ignore secrets and logs again (just in case)
+.env
+.env.*
+*.log
+.kiro/
+a2ui/
