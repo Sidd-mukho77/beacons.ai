@@ -24,6 +24,17 @@ A high-performance parallel agent system that profiles companies in a given indu
 *   **Tech Stack**: `SequentialAgent`, `ParallelAgent`, `A2UI`.
 *   **Guide**: [Startup Guide](./company_profiler/STARTUP_GUIDE.md)
 
+### 2. Annual Report Parser
+An intelligent agent that automatically finds, downloads, and analyzes company annual reports.
+
+*   **Capabilities**:
+    *   Processes single companies or batches (e.g., "Apple, Microsoft, Tesla").
+    *   **Smart PDF Discovery**: Nested retry loop with 5 different search strategies.
+    *   **Gemini PDF Analysis**: Uses Gemini's Files API for deep document understanding.
+    *   **Pinecone Storage**: Stores structured financial data for semantic search.
+*   **Tech Stack**: `SequentialAgent`, `LoopAgent`, Gemini Files API, Pinecone.
+*   **Guide**: [Startup Guide](./annual_report_parser/STARTUP_GUIDE.md)
+
 ## 🚀 Getting Started
 
 ### Prerequisites

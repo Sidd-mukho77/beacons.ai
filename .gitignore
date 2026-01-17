@@ -22,9 +22,19 @@
 !company_profiler/.env.example
 !company_profiler/tests/
 
+# Whitelist Annual Report Parser Agent files
+!annual_report_parser/__init__.py
+!annual_report_parser/agent.py
+!annual_report_parser/custom_tools.py
+!annual_report_parser/loop_tools.py
+!annual_report_parser/requirements.txt
+!annual_report_parser/.env.example
+!annual_report_parser/STARTUP_GUIDE.md
+
 # Explicitly ignore secrets and logs again (just in case)
 .env
 .env.*
 *.log
 .kiro/
+.adk/
 a2ui/

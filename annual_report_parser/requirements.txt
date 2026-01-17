@@ -1,0 +1,4 @@
+# Financial Analyst Agent Dependencies
+google-adk>=0.3.0
+google-genai>=0.1.0
+requests>=2.28.0
