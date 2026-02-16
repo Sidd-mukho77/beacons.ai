@@ -13,7 +13,7 @@ To democratize access to high-quality, autonomous market intelligence. Beacons.a
 - **Synthesize**: Aggregate multi-source data into structured, actionable insights.
 - **Visualize**: Generate interactive UI cards for immediate consumption.
 
-## 🤖 Available Agents
+## 🤖 Available Agents Right Now
 
 ### 1. Company Profiler
 
