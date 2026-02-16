@@ -26,7 +26,7 @@ A high-performance parallel agent system that profiles companies in a given indu
 - **Tech Stack**: `SequentialAgent`, `ParallelAgent`, `A2UI`.
 - **Guide**: [Startup Guide](./company_profiler/STARTUP_GUIDE.md)
 
-### 2. Annual Report Parser
+### 2. Annual Report Parser.
 
 An intelligent agent that automatically finds, downloads, and analyzes company annual reports.
 
