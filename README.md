@@ -31,7 +31,7 @@ A high-performance parallel agent system that profiles companies in a given indu
 An intelligent agent that automatically finds, downloads, and analyzes company annual reports.
 
 - **Capabilities**:
-  - Processes single companies or batches (e.g., "Apple, Microsoft, Tesla").
+  - Processes single companies or batches (e.g., "Apple, Microsoft, Tesla, Meta").
   - **Smart PDF Discovery**: Nested retry loop with 5 different search strategies.
   - **Gemini PDF Analysis**: Uses Gemini's Files API for deep document understanding.
   - **Pinecone Storage**: Stores structured financial data for semantic search.
